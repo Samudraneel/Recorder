@@ -1,0 +1,6 @@
+C:\Users\sam_n\Documents\Projects\Recorder\Recorder\Recorder\bin\Debug\Recorder.exe.config
+C:\Users\sam_n\Documents\Projects\Recorder\Recorder\Recorder\bin\Debug\Recorder.exe
+C:\Users\sam_n\Documents\Projects\Recorder\Recorder\Recorder\bin\Debug\Recorder.pdb
+C:\Users\sam_n\Documents\Projects\Recorder\Recorder\Recorder\obj\Debug\Recorder.csproj.CoreCompileInputs.cache
+C:\Users\sam_n\Documents\Projects\Recorder\Recorder\Recorder\obj\Debug\Recorder.exe
+C:\Users\sam_n\Documents\Projects\Recorder\Recorder\Recorder\obj\Debug\Recorder.pdb
